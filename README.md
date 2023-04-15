@@ -13,6 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 ## Overview
 
 ### Screenshot
@@ -21,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: (https://mrk113.github.io/QR-Code-Website/)
+- Live Site URL: (https://your-live-site-url.com)
 
 ## My process
 
@@ -37,19 +39,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Centering Vertically and Horizontally:
 
 ```css
-.wrapper {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+body {
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 ```
 
 ### Useful resources
 
 - [Resource 1](https://fonts.google.com/) - This helped me for Fonts.
-- [Resource 2](https://www.w3schools.com/howto/howto_css_center-vertical.asp) - This is an amazing article which helped me finally understand Centering Vertically. I'd recommend it to anyone still learning this concept.
+- [Resource 2](https://www.frontendmentor.io/home?tab=feedback) - This feedback helped me 
+make the Website responsiv.
 
 ## Author
 
